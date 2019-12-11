@@ -3,6 +3,6 @@
 
 ![Alt text](/arts/find_all_faces.png)
 
-## Convert to mosaic for all faces.          
+## Convert all the faces to mosaic.          
 
 ![Alt text](/arts/mosaic_faces.png)

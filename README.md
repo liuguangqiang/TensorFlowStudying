@@ -4,7 +4,7 @@
 
 ## Create Environment
 * virtualenv --system-site-packages -p python3 ./venv
-* source ./venv/Scripts/activate
+* source ./venv/bin/activate
 
 ## Install TensorFlow
 * pip install —upgrade tensorflow
